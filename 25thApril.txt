@@ -1,0 +1,4 @@
+2. Resolved. 
+7. As per the product image on product set page, the product displayed is correct but the link mentioned in excel file doesn't match. Assuming this is fine. 
+9. Noted. 
+11. Not resolved. fgh
